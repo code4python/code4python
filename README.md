@@ -17,26 +17,6 @@
 - 🐼 Doing my best 
 <br>
 
-<!-----Serves-->
-<h2>الخدمات</h2>
-<div class="services">
-    <img src="[./imags/web.jpeg](https://icons8.com/icon/42280/website)" >
-    <p><b>تصميم المواقع</b></p>  
-    <small>تصميم مواقع المتحركة وثابتة  ومواقع ادارة ومتاجر  ومدونات الشخصية</small>
-</div>
-
-<div class="services">
-    <img src="[./imags/database.png](https://icons8.com/icon/OhoxsxIv6UpW/database)" > 
-    <p><b>بناء او تصميم قاعدة البيانات </b></p>
-    <small>بناء قاعدة بيانات بسيطة بالاستخدام اكسيس وكبيرة بالاستخدام اوريكل وسكول وربط مع المواقع او تطبيقات او انظمة </small>
-</div>
-
-<div class="services">
-  <img src="[./imags/key.png](https://icons8.com/icon/iQTUzffIA41C/server)" >
-  <p><b>تامين السيرفرات من اختراق</b></p>
-  <small>حماية المواقع وانظمة والتطبيقات من الهجمات الالكترونية وعمل نسخ احطياطية</small>  
-</div>
-
 ## 📩 Connect with me
 <p align="center">
     <a href="mailto: aemd1695@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
